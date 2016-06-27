@@ -26,7 +26,7 @@ _testmain.go
 *.prof
 
 将删除 .gitignore
-将删除 .idea/
+.idea/
 将删除 256cache
 将删除 256cache.iml
 将删除 README.md
