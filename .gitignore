@@ -1,0 +1,35 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Go template
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
+*.prof
+
+将删除 .gitignore
+将删除 .idea/
+将删除 256cache
+将删除 256cache.iml
+将删除 README.md
+将删除 app.go
+将删除 map.go
+将删除 map_main.go
